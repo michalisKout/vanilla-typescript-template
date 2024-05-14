@@ -1,0 +1,33 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App > should be true 1`] = `
+<body>
+  <div>
+    <h1>
+      React playground
+    </h1>
+    <div>
+      <button>
+        count is 
+        0
+      </button>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`App > should match snapshot 1`] = `
+<body>
+  <div>
+    <h1>
+      React playground
+    </h1>
+    <div>
+      <button>
+        count is 
+        0
+      </button>
+    </div>
+  </div>
+</body>
+`;
